@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/openmind-systems-lab/.github/main/profile/logo.png" width="350">
 </p>
 
-<h1 align="center">Envoy Gateway PoC</h1>
+<h1 align="center">Envoy Gateway Playground</h1>
 
 <p align="center">
 An Open Source Proof of Concept demonstrating Kubernetes Gateway API routing with Envoy Gateway.
