@@ -431,20 +431,14 @@ This project is released under the MIT License.
 
 OpenMind Systems Lab is an independent French non-profit association dedicated to research, experimental development and technical benchmarking in Cloud Native technologies.
 
-Our mission is to publish high-quality Open Source Proofs of Concept that are practical, reproducible and educational.
+Our mission is to produce practical, reproducible and educational Open Source Proofs of Concept covering Kubernetes, Platform Engineering, Distributed Messaging, Infrastructure Security and Artificial Intelligence.
 
-Explore all projects:
+GitHub Organization:
 
-```text
 https://github.com/openmind-systems-lab
-```
 
 ---
 
 <p align="center">
-
 Made with ❤️ by OpenMind Systems Lab
-
-Research • Open Source • Platform Engineering
-
 </p>
