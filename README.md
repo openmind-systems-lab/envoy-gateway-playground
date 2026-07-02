@@ -12,9 +12,11 @@ An Open Source Proof of Concept demonstrating Kubernetes Gateway API routing wit
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
-![Proof of Concept](https://img.shields.io/badge/Type-Proof%20of%20Concept-orange)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Gateway%20API-blue)
+![Status](https://img.shields.io/badge/Status-Lab%20%2F%20PoC-orange)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Supported-blue)
+![Envoy](https://img.shields.io/badge/Envoy-Gateway-purple)
 ![Association](https://img.shields.io/badge/OpenMind%20Systems%20Lab-Loi%201901-blue)
+
 
 </p>
 
